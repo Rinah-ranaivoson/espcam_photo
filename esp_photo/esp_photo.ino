@@ -3,8 +3,8 @@
 #include <esp32cam.h>
 #include <memory>  // Pour std::unique_ptr
 
-const char* WIFI_SSID = "Airbox-4C30";  // Remplacez par votre SSID
-const char* WIFI_PASS = "Tk3LLjwMmvUK"; // Remplacez par votre mot de passe
+const char* WIFI_SSID = "*********";  // Remplacez par votre SSID
+const char* WIFI_PASS = "*********"; // Remplacez par votre mot de passe
 
 const int buttonPin = 12;  // Pin du bouton poussoir
 const int ledPin = 4;      // Pin de la LED intégrée
